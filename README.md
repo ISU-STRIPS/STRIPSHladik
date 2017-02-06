@@ -1,2 +1,2 @@
 # STRIPSHladik
-An R packaeg for Neonic data
+An R package for Neonic data
