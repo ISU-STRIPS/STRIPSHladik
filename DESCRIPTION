@@ -1,0 +1,10 @@
+Package: STRIPSHladik
+Title: An R package for neonic data
+Version: 0.0.1
+Authors@R: person("Jarad", "Niemi", email = "niemi@iastate.edu", role = c("aut", "cre"))
+Description: Contains neonic data from the Hladik lab for the STRIPS
+    experiment.
+Depends: R (>= 3.0)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
