@@ -1,0 +1,26 @@
+sample,site,date,type,material,mass_g,vol_L,organic_carbon_percent,acetamiprid ,clothianidin ,dinotefuran ,imidacloprid ,thiacloprid ,thiamethoxam ,surrogate_percentrecovery_imidacloprid_d4
+TS1988,basswood1,20150407,env,roots,2.34,,nd,nd,nd,nd,nd,nd,nd,74.5
+TS1989,basswood1,20150407,env,soil,2.37,,nd,nd,nd,nd,nd,nd,nd,70.8
+TS1990,basswood6,20150407,env,soil,2.52,,nd,nd,9.3,nd,8.2,nd,nd,114
+TS1991,orbweaver1,20150407,env,roots,2.33,,nd,nd,nd,nd,nd,nd,nd,97.9
+TS1992,orbweaver1,20150407,env,soil,2.42,,nd,nd,nd,nd,nd,nd,nd,97.8
+TS1993,orbweaver3,20150407,env,soil,2.36,,nd,nd,4.5,nd,1.5,nd,nd,90.6
+TS1994,interim2,20150407,env,roots,2.44,,nd,nd,nd,nd,nd,nd,nd,89.9
+TS1995,interim2,20150407,env,soil,2.51,,nd,nd,nd,nd,nd,nd,nd,89.5
+TS1996,interim3,20150407,env,soil,2.38,,nd,nd,10.7,nd,5.5,nd,nd,87
+SS2434,basswood1,20151119,env,soil,5.21,,2.7,nd,2.8,nd,nd,nd,nd,80
+SS2435,basswood6,20151119,env,soil,4.99,,2.16,nd,7.3,nd,3.1,nd,nd,78.7
+SS2439,orbweaver1,20151119,env,soil,5.18,,2.88,nd,1.2,nd,nd,nd,nd,83.3
+SS2441,orbweaver3,20151119,env,soil,5,,1.81,nd,4.7,nd,0.9,nd,nd,74.1
+SS2436,interim2,20151119,env,soil,5.18,,2.81,nd,nd,nd,nd,nd,nd,85.6
+SS2437,interim3,20151119,env,soil,5,,2.17,nd,7.5,nd,7,nd,nd,90.9
+SS2456,basswood1,20160506,env,soil,2.59,,nd,nd,1.2,nd,nd,nd,nd,79.9
+SS2455,basswood6,20160506,env,soil,3.12,,nd,nd,18,nd,10.5,nd,nd,87
+SS2457,orbweaver1,20160506,env,soil,2.58,,nd,nd,nd,nd,nd,nd,nd,73.8
+SS2458,orbweaver3,20160506,env,soil,2.99,,nd,nd,4.1,nd,3.3,nd,nd,77.7
+SS2460,interim2,20160506,env,soil,2.81,,nd,nd,nd,nd,nd,nd,nd,83.6
+SS2461,interim3,20160506,env,soil,3.12,,nd,nd,22.7,nd,25.7,nd,nd,76.2
+SS2458,orbweaver3,20160506,env,water,,2.99,nd,nd,4.1,nd,3.3,nd,nd,77.7
+SS2459,orbweaver3,20160506,rep,water,,3.01,nd,nd,4.7,nd,3.9,nd,nd,73.2
+SS2462,interim3,20160506,spike,water,,3.23,nd,78.4,88.4,75.6,92.4,75.6,76.4,76.8
+SS2463,blank,20160609,blank,water,,3,nd,nd,nd,nd,nd,nd,nd,94.5
