@@ -3,7 +3,7 @@ library(dplyr)
 neonic_soil_samples <- readr::read_csv("neonic_soil_samples.csv") %>%
   
   #Capitalize first letter of sites
-  mutate(site = capitalize(site)) %>%
+  mutate(site = Hmisc::capitalize(site)) %>%
   
   #Format dates
   mutate(date = as.Date(as.character(date), "%Y%m%d")) %>%
