@@ -4,14 +4,14 @@
 #' at various STRIPS1 experiment sites
 #' 
 #' @format A data.frame with the following columns:
-#'   \code{sample}: the unique plant sample identifier
+#'   \code{sample}: the unique soil sample identifier
 #'   \code{site}: the site where the sample originated
 #'   \code{date}: the date the sample was extracted
 #'   \code{type}: type of sample (see Readme)
 #'   \code{material}: substrate of soil sample
-#'   \code{plant_number}: plant identifier
 #'   \code{mass}: mass of sample in grams
 #'   \code{vol}: volume of sample in liters
+#'   \code{organic_carbon_percent}: percent organic carbon
 #'   \code{acetamiprid}: ng/g acetamiprid detected
 #'   \code{clothianidin}: ng/g clothianidin detected
 #'   \code{dinotefuran}: ng/g dinotefuran detected
