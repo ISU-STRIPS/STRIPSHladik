@@ -18,4 +18,4 @@
 #'   \code{thiamethoxam}: ng/g thiamethoxam detected
 #'   \code{surrogate_percent_recovery_imidacloprid_d4}: percent recovery imidacloprid
 #'   
-"neonic_plant_sample"
+"neonic_plant_samples"
