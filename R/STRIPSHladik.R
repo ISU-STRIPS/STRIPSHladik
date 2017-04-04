@@ -13,6 +13,13 @@
 #' \code{\link{neonic_soil_samples}}
 #' \code{\link{neonic_water_samples}}
 #'
+#' @references Michelle L. Hladik, Steven Bradbury, Lisa A. Schulte, 
+#' Matthew Helmers, Christopher Witte, Dana W. Kolpin, Jessica D. Garrett, 
+#' Mary Harris, Neonicotinoid insecticide removal by prairie strips in 
+#' row-cropped watersheds with historical seed coating use, Agriculture, 
+#' Ecosystems & Environment, Volume 241, 1 April 2017, Pages 160-167, ISSN 
+#' 0167-8809, http://dx.doi.org/10.1016/j.agee.2017.03.015.
+#'
 #' @docType package
 #' @name STRIPSHladik
 NULL
