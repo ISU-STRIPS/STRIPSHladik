@@ -6,14 +6,17 @@
 \alias{STRIPSHladik-package}
 \title{STRIPSHladik: A package for STRIPS neonic data.}
 \description{
-The STRIPSHladik package contains STRIPS neonic data
-from plant, soil, and water samples
+The STRIPSHladik package contains STRIPS neonic data from plant, soil, and
+water samples
 }
 \section{STRIPSHladik data sets}{
 
-\code{\link{neonic_plant_samples}}
-\code{\link{neonic_soil_samples}}
-\code{\link{neonic_water_samples}}
+  
+  \code{\link{neonic_plant_samples}}
+  
+  \code{\link{neonic_soil_samples}}
+  
+  \code{\link{neonic_water_samples}}
 }
 \references{
 Michelle L. Hladik, Steven Bradbury, Lisa A. Schulte, 
@@ -24,8 +27,10 @@ Ecosystems & Environment, Volume 241, 1 April 2017, Pages 160-167, ISSN
 0167-8809, http://dx.doi.org/10.1016/j.agee.2017.03.015.
 }
 \seealso{
-\code{\link{neonic_plant_samples}} 
+\code{\link{neonic_plant_samples}}
+
 \code{\link{neonic_soil_samples}}
+
 \code{\link{neonic_water_samples}}
 }
 
