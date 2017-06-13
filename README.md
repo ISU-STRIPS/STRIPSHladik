@@ -1,6 +1,12 @@
 # STRIPSHladik
 An R package for Neonic data
 
+## Package installation
+
+To install this package directly from github, use 
+
+    devtools::install_github("ISU-STRIPS/STRIPSHladik")
+
 ## Notes about STRIPSHladik datasets
 
 Data collection:
